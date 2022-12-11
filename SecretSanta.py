@@ -4,7 +4,6 @@ from copy import deepcopy
 import EmailSender
 
 
-# Python3 code here creating class
 class People:
     def __init__(self, name, email):
         self.name = name
